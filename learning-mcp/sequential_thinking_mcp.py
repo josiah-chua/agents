@@ -1,0 +1,2 @@
+from sequential_thinking import sequential_thinking_mcp
+sequential_thinking_mcp.run(transport="stdio")
